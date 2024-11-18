@@ -1,6 +1,6 @@
 # Haapsalu Kutsehariduskeskus - IT Learning Resources
 
-![HKHK Logo](https://hkhk.edu.ee/sites/hkhk.edu.ee/files/2021-11/kameeleon.png)
+![HKHK Logo](https://hkhk.edu.ee/themes/custom/harno_theme/static/assets/images/placeholder-1.gif)
 
 Welcome to the GitHub organization for **Haapsalu Kutsehariduskeskus**!  
 This is the home for all IT-related projects, labs, and learning materials for our students and educators.
