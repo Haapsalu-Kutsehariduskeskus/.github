@@ -1,41 +1,53 @@
-# Haapsalu Kutsehariduskeskus - IT Learning Resources
+# 🦎 Haapsalu Kutsehariduskeskus - IT Learning Resources 🖥️  
 
-![HKHK Logo](https://hkhk.edu.ee/themes/custom/harno_theme/static/assets/images/placeholder-1.gif)
+<p align="center">
+  <img src="https://github.com/Haapsalu-Kutsehariduskeskus/home/blob/main/kameeleon.png" alt="HKHK Chameleon" width="300" />
+</p>
 
-Welcome to the GitHub organization for **Haapsalu Kutsehariduskeskus**!  
-This is the home for all IT-related projects, labs, and learning materials for our students and educators.
+Welcome to the **Haapsalu Kutsehariduskeskus** GitHub organization! 🎉  
+This is the hub where **IT magic happens** – whether you're diving into networking, tinkering with code, or building the next big thing.
 
-## About Us
-Haapsalu Kutsehariduskeskus is a leading vocational education center specializing in technology and innovation. Our IT department provides hands-on education in:
-- Networking (e.g., Cisco Packet Tracer labs)
-- System Administration (Linux and Windows environments)
-- Monitoring and Infrastructure (e.g., Prometheus, Grafana)
-- Web Development and Programming
+---
 
-All resources are designed to help students build real-world skills in the IT field.
+## 🌟 About Us
+At **HKHK**, we’re all about hands-on learning and prepping students for **real-world IT challenges**. Here’s what we focus on:
+- 🌐 **Networking**: Master the art of Cisco Packet Tracer and real-life networking setups.
+- ⚙️ **System Administration**: Get your hands dirty with Linux, Windows, and virtualization tools.
+- 🛠️ **Monitoring & Infrastructure**: Learn the ropes of tools like Prometheus and Grafana.
+- 🌍 **Web Development**: Build websites, apps, and everything in between with modern programming languages.
 
-## Repository Access
-All repositories in this organization are private and accessible only to authorized students and teachers. These include:
-- **av-alused:** Introductory IT course materials.
-- **it-taristu:** IT infrastructure and virtualization projects.
-- **monitoring:** IT monitoring tools and configurations.
-- **minuveeb:** Web development exercises and examples.
-- **vprofile-project:** A full-stack deployment project for learning DevOps concepts.
+---
 
-If you need access, please contact your instructor or the IT department.
+## 🔒 Private Repositories
+All our juicy IT resources are tucked away in private repositories, accessible only to our students and staff. Here's a sneak peek at what’s inside:
+- **📂 av-alused:** Your first step into the IT universe.
+- **🖧 it-taristu:** Building blocks for IT infrastructure and virtualization.
+- **📊 monitoring:** Keep systems running smoothly with monitoring tools.
 
-## Purpose
-This GitHub organization serves as a hub for:
-- Hosting and managing IT course materials.
-- Collaborating on IT projects and exercises.
-- Gaining hands-on experience with real-world tools and configurations.
+Need access? 📨 **Talk to Maria!**
 
-## Guidelines
-1. **Students:** Use the materials to complete your assignments and improve your IT skills.
-2. **Teachers:** Maintain and update repositories with relevant resources.
-3. **External Visitors:** Public information about Haapsalu Kutsehariduskeskus is provided here for general reference.
+---
 
-## Contact
-For access to resources or general inquiries:
-- Email: [it@hkhk.edu.ee](mailto:it@hkhk.edu.ee)
-- Visit our website: [hkhk.edu.ee](https://hkhk.edu.ee/et/Infotehnoloogia)
+## 🎯 Why We’re Here
+Our GitHub organization is your playground for:
+- 🚀 Experimenting with projects and assignments.
+- 🛠️ Practicing real-world skills.
+- 🤝 Collaborating with teachers and classmates.
+
+Whether you're solving bugs, setting up servers, or designing websites, this is your go-to space. **No boring lectures – just practical, hands-on learning!**
+
+---
+
+## 📢 Guidelines for Success
+1. **Students:** Use these repositories to sharpen your skills. Mistakes? That’s part of learning! 💡
+2. **Teachers:** Keep the content fresh, relevant, and exciting. 🎓
+3. **Guests:** Public information is here for you to explore. Feel free to reach out if you want to collaborate. 🤝
+
+---
+
+## 📬 Let’s Connect!
+Got questions or need help? Reach out to us!
+- ✉️ Email: [it@hkhk.edu.ee](mailto:maria@hkhk.edu.ee)
+- 🌐 Visit: [hkhk.edu.ee](https://hkhk.edu.ee/et/Infotehnoloogia)
+
+Let’s make learning IT fun, engaging, and **chameleon-cool!** 🦎
